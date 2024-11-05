@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://inekeati.github.io/Bat/sitemap_index.txt
+Sitemap: https://inekeati.github.io/DAZ/sitemap_index.txt
+Sitemap: https://inekeati.github.io/WQG/sitemap_index.txt
+Sitemap: https://inekeati.github.io/nNd/sitemap_index.txt
